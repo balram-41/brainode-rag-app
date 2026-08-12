@@ -1,0 +1,8 @@
+streamlit
+pypdf
+langchain-classic
+langchain-community
+langchain-qdrant
+langchain-google-genai
+sentence-transformers
+qdrant-client
