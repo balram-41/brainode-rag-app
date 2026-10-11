@@ -1,8 +1,17 @@
 streamlit
 pypdf
+pdfplumber
+python-docx
+rank_bm25
+ragas
+datasets
+google-generativeai
 langchain-classic
 langchain-community
+langchain-core
+langchain-text-splitters
 langchain-qdrant
 langchain-google-genai
 sentence-transformers
 qdrant-client
+pandas
